@@ -21,6 +21,5 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Simple footer text.
-published: false
 
 ---
