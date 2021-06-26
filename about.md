@@ -21,5 +21,8 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Simple footer text.
+menu:
+  main:
+    weight: 2
 
 ---
