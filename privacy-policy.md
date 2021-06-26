@@ -58,8 +58,8 @@ page_sections:
     be found at the browsers'' respective websites.'
 - template: simple-footer
   block: footer-1
-  content: '| <a href="https://web.archive.org/web/20150327150315/http://www.hizook.com/privacy">Privacy
-    Policy</a> | <a href="https://web.archive.org/web/20150327150315/http://www.hizook.com/become-sponsor-advertise-hizook">Advertise
+  content: '| <a href="https://www.hizook.com/privacy" title="">Privacy Policy</a>
+    | <a href="https://www.hizook.com/become-sponsor-advertise-hizook" title="Advertise">Advertise
     on Hizook</a> |'
 
 ---
