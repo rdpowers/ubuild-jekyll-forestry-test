@@ -61,6 +61,5 @@ page_sections:
   content: '| <a href="https://web.archive.org/web/20150327150315/http://www.hizook.com/privacy">Privacy
     Policy</a> | <a href="https://web.archive.org/web/20150327150315/http://www.hizook.com/become-sponsor-advertise-hizook">Advertise
     on Hizook</a> |'
-published: false
 
 ---
